@@ -1,0 +1,14 @@
+get a file cloud community edition or paid editions i used community edition
+sign up and follow up the guide they provide or follow these steps
+you should have a azure account to make a server 
+creat a new viritual machine with file cloud windows in the marketplace 
+select cpu version and edition
+review and create server 
+launch the server with RDP and your credentials
+now go to c:/ and select xampp server
+run the server 
+go to admin portal (user= admin , password= password)
+create license and path to cloud server 
+create users and admins
+login to the user portal
+now you can seamlessly manage and share your files over the cloud and customize the server as per your wish 
